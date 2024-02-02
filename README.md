@@ -49,3 +49,10 @@ npm run dev
 ```sh
 npm test
 ```
+
+6. Eslint & Prettier
+
+   Download the following vscode extensions, for the formatter and linter to work.
+
+   - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+   - [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
