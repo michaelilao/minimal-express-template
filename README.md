@@ -40,13 +40,13 @@ yarn install
 4. Run your api in dev mode
 
 ```sh
-npm run dev
+yarn dev
 ```
 
 5. Run the sample tests
 
 ```sh
-npm test
+yarn test
 ```
 
 6. Eslint & Prettier
