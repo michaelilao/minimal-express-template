@@ -35,7 +35,6 @@ cd minimal-express-template
 ```
 npm install --global yarn // if you do not have it installed yet
 yarn install
-yarn add sharp --ignore-engines
 ```
 
 4. Run your api in dev mode
