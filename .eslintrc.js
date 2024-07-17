@@ -32,5 +32,6 @@ module.exports = {
     'comma-dangle': 0,
     'object-curly-newline': 'off',
     'import/prefer-default-export': 'off',
+    quotes: ["error", "double"]
   },
 };
